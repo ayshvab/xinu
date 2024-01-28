@@ -1,0 +1,10 @@
+To setup dev environment
+
+Install VirtalBox
+
+Download Appliances
+
+Setup port forwarding in virtual box
+
+Run ./upload.sh to upload new code to dev-machine
+
